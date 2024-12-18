@@ -13,3 +13,7 @@ My advent of code solutions using both Golang & JS with Deno as I am using these
 ### Day 3
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Go / Golang
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ JS w/ Deno
+
+### Day 4
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Go / Golang
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ JS w/ Deno
