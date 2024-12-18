@@ -1,2 +1,15 @@
 # Advent_of_Code
 My advent of code solutions using both Golang & JS with Deno as I am using these challenges as a way to learn more about GO & Deno
+
+# __Progress__
+### Day 1
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Go / Golang
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ JS w/ Deno
+
+### Day 2
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Go / Golang
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ JS w/ Deno
+
+### Day 3
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Go / Golang
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ JS w/ Deno
