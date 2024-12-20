@@ -17,3 +17,23 @@ My advent of code solutions using both Golang & JS with Deno as I am using these
 ### Day 4
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Go / Golang
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ JS w/ Deno
+
+### Day 5
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Go / Golang
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ JS w/ Deno
+
+### Day 6
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Go / Golang
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ JS w/ Deno
+
+### Day 7
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Go / Golang
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ JS w/ Deno
+
+### Day 8
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Go / Golang
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ JS w/ Deno
+
+### Day 9
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Go / Golang
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ JS w/ Deno
