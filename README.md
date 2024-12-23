@@ -39,3 +39,6 @@ My advent of code solutions using both Golang & JS with Deno as I am using these
 
 ### Day 11
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Go / Golang
+
+### Day 12
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Go / Golang
