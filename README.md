@@ -76,3 +76,15 @@ My advent of code solutions using both Golang & JS with Deno as I am using these
 ### Day 17
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Go / Golang
+
+### Day 18
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Go / Golang
+
+### Day 19
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Go / Golang
+
+### Day 20
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Go / Golang
